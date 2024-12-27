@@ -60,7 +60,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## Acknowledgement
 
 - [FreeCodeCamp Resources](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/) - Introduced me to discord bot setup
-- [Discord Documentation] https://discord.com/developers/docs/interactions/overview#commands) - A reference for understanding discord.py library
+- [Discord Documentation](https://discord.com/developers/docs/interactions/overview#commands) - A reference for understanding discord.py library
 - [ChatGPT](https://openai.com/chatgpt): Used as a supplementary tool for debugging and exploring alternative solutions during the development process.
 - Special thanks to contributors, open-source libraries, and online communities for their valuable insights.
 
