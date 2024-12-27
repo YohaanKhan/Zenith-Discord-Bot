@@ -71,18 +71,22 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 The setup of environment variable is as follows:
 
+# The token of your discord bot
 DISCORD_TOKEN=<your-discord-token>
 
+# Database Connection Details
 DB_USER=<your-database-username>
 DB_PASSWORD=<your-database-password>
 DB_NAME=<your-database-name>
 DB_HOST=<your-database-host>
 DB_PORT=<your-database-port>
 
+# Reddit API connection Details
 REDDIT_CLIENT_ID=<your-reddit-client-id>
 REDDIT_CLIENT_SECRET=<your-reddit-client-secret>
 REDDIT_USER_AGENT=<your-reddit-user-agent>
 
+# Channel ID for the bot's access
 CHANNEL=<your-discord-channel-id>
 
 ------------
