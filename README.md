@@ -7,11 +7,12 @@ Zenith is a productivity-focused Discord bot designed to help users streamline t
 ## Table of Content
 
 1. [Features](#features)
-2. [Installation](#installation)
-3. [Environment Variable](#environmentvar)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+2. [Installation](#installation
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Acknowledgement](#acknowledgement)
+7. [Environment Variable](#environmentvar)
 
 -----------
 
@@ -64,6 +65,27 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 - [ChatGPT](https://openai.com/chatgpt): Used as a supplementary tool for debugging and exploring alternative solutions during the development process.
 - Special thanks to contributors, open-source libraries, and online communities for their valuable insights.
 
+-----------
+
+## Environment Variable
+
+The setup of environment variable is as follows:
+
+DISCORD_TOKEN=<your-discord-token>
+
+DB_USER=<your-database-username>
+DB_PASSWORD=<your-database-password>
+DB_NAME=<your-database-name>
+DB_HOST=<your-database-host>
+DB_PORT=<your-database-port>
+
+REDDIT_CLIENT_ID=<your-reddit-client-id>
+REDDIT_CLIENT_SECRET=<your-reddit-client-secret>
+REDDIT_USER_AGENT=<your-reddit-user-agent>
+
+CHANNEL=<your-discord-channel-id>
+
+------------
 
 
 
